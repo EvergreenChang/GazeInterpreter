@@ -2,10 +2,10 @@
 
 Official repository for the paper: "GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations" (AAAI 2026)
 
-## Introduction
+## Introduction 
 ![teaser](docs/teaser.png)
-
 GazeInterpreter is a novel framework that integrates symbolic gaze events and human motion to generate eye-body-coordinated narrations.
+
 ---
 
 ## 📌 Overview

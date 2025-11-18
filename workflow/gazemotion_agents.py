@@ -7,7 +7,7 @@ import json
 import os
 import pandas as pd
 from datetime import datetime
-from data_processor import DataProcessor
+from workflow.data_processor import DataProcessor
 
 # from workflow.prompts import *
 from workflow.prompts import *

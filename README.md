@@ -4,7 +4,8 @@ Official repository for the paper: "GazeInterpreter: Parsing Eye Gaze to Generat
 
 ## Introduction 
 ![teaser](docs/teaser.png)
-GazeInterpreter is a novel framework that integrates symbolic gaze events and human motion to generate eye-body-coordinated narrations.
+GazeInterpreter is a novel framework that integrates symbolic gaze events and human motion to generate eye-body-coordinated narrations,
+which can significantly enhance a range of HCI tasks including motion generation, action anticipation, and behavior summarization.
 
 ---
 
@@ -23,7 +24,7 @@ In this project, we provide:
 We use the large-scale human motion dataset: Nymeria. 
 Follow the dataset conda environment instructions from the official [repository](https://github.com/facebookresearch/nymeria_dataset).
 
-It is recommended to download the nymeria repository directly to the data_preprocess fold.(./data_preprocess)
+It is recommended to directly download the nymeria repository to the ./data_preproces directory.
 
 ### 1-2: Download the required data 
 We need to download the scenes including gaze and motion, use Nymeria official download and filtering tools:
@@ -47,7 +48,7 @@ your_save_path/
 ...
 ```
 ### 1-3: Data preprocessing 
-Use the script we provided to extract raw gaze data and convert it into symbolic events:
+Use the script we provided to extract raw gaze data and convert them into symbolic events:
 
 ```bash
 # First modify the custom configuration in the file, e.g., 'data_dir' and 'output_dir'

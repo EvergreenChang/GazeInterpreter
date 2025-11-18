@@ -1,0 +1,26 @@
+# macOS cruft
+.DS_Store
+
+# IDE/editor
+.idea/
+.vscode/
+
+# Python cache/venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model weights / large artifacts
+models/
+*.ckpt
+*.bin
+*.safetensors
+
+# Local run outputs
+workflow_output/
+*.jsonl
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

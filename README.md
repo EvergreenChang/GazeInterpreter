@@ -1,5 +1,8 @@
 # GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations
 
+[[Project Page]](zhiminghu.net/chang26_gazeinterpreter)
+[[Arxiv Paper]](https://arxiv.org/abs/2511.16245)
+
 Official repository for the paper: "GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations" (AAAI 2026)
 
 ## Introduction 

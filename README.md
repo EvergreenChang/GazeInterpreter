@@ -133,6 +133,22 @@ Thanks to [nymeria](https://github.com/facebookresearch/nymeria_dataset),
 and [gemma](https://github.com/google-deepmind/gemma),
 our code is partially borrowing from them.
 
-[//]: # (## Citation)
+---
+
+## 📖 Citation
+If you find our code or paper helps, please consider citing:
+
+```bibtex
+@article{chang2025gazeinterpreterparsingeyegaze,
+      title={GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations}, 
+      author={Qing Chang and Zhiming Hu},
+      year={2025},
+      eprint={2511.16245},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2511.16245}, 
+}
+```
+
 
 [//]: # (If our paper and code are beneficial to your work, please consider citing:)

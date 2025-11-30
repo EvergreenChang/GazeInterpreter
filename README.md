@@ -139,15 +139,11 @@ our code is partially borrowing from them.
 If you find our code or paper helps, please consider citing:
 
 ```bibtex
-@article{chang2025gazeinterpreterparsingeyegaze,
-      title={GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations}, 
-      author={Qing Chang and Zhiming Hu},
-      year={2025},
-      eprint={2511.16245},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC},
-      url={https://arxiv.org/abs/2511.16245}, 
-}
+@inproceedings{chang26gazeinterpreter,
+            author = {Chang, Qing and Hu, Zhiming},
+            title = {GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations},
+            booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+            year = {2026}}
 ```
 
 

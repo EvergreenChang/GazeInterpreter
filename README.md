@@ -133,6 +133,8 @@ Thanks to [nymeria](https://github.com/facebookresearch/nymeria_dataset),
 and [gemma](https://github.com/google-deepmind/gemma),
 our code is partially borrowing from them.
 
+Note that our code depends on above libraries and datasets which each have their own respective licenses that must also be followed.
+
 ---
 
 ## 📖 Citation
@@ -147,4 +149,5 @@ If you find our code or paper helps, please consider citing:
 ```
 
 
-[//]: # (If our paper and code are beneficial to your work, please consider citing:)
+
+Contact Qing Chang at qingc@hkust-gz.edu.cn for any questions or comments.

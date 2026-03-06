@@ -150,4 +150,4 @@ If you find our code or paper helps, please consider citing:
 
 
 
-Contact Qing Chang at qingc@hkust-gz.edu.cn for any questions or comments.
+Contact Qing Chang at qchang252@connect.hkust-gz.edu.cn for any questions or comments.
